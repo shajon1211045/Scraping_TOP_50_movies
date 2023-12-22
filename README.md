@@ -29,7 +29,7 @@ python Webscraper.py
 ```  
 ## Project Structure
 
-- `scraping_top_50_movies.py`: The main Python script for web scraping, data transformation, and loading.
+- `Webscraper.py`: The main Python script for web scraping, data transformation, and loading.
 - `top_50_films.csv`: CSV file containing the transformed data.
 - `Movies.db`: SQLite database containing the transformed data.
 
